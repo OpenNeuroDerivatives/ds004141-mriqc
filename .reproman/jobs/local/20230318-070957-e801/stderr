@@ -1,0 +1,4 @@
+WARNING (03/18/23 07:14:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5328571.hostlist.HPLMLhBg to get hosts
+starting job on c207-016
+starting job on c210-026
